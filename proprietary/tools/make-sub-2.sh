@@ -32,6 +32,7 @@ cp -a ${SRC_SYSTEM}/app/Talk.apk ${DST_SYSTEM}/app/Talk/Talk.apk
 cp -a ${SRC_SYSTEM}/app/Velvet.apk ${DST_SYSTEM}/app/Velvet/Velvet.apk
 cp -a ${SRC_SYSTEM}/app/VoiceSearchStub.apk ${DST_SYSTEM}/app/VoiceSearchStub/VoiceSearchStub.apk
 cp -a ${SRC_SYSTEM}/app/YouTube.apk ${DST_SYSTEM}/app/YouTube/YouTube.apk
+cp -a ${SRC_SYSTEM}/app/GalleryGoogle.apk ${DST_SYSTEM}/app/GalleryGoogle/GalleryGoogle.apk
 cp -a ${SRC_ORIG_SYSTEM}/app/Books.apk ${DST_SYSTEM}/app/Books/Books.apk
 cp -a ${SRC_ORIG_SYSTEM}/app/Chrome.apk ${DST_SYSTEM}/app/Chrome/Chrome.apk
 cp -a ${SRC_ORIG_SYSTEM}/app/Currents.apk ${DST_SYSTEM}/app/Currents/Currents.apk

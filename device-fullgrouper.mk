@@ -1,12 +1,13 @@
 LOCAL_PATH := jcrom/asus/fullgrouper
 
-PRODUCT_PACKAGES += \
-    Gallery2
+#PRODUCT_PACKAGES += \
+#    Gallery2
 
 PRODUCT_PACKAGES += \
 	BrowserProviderProxy \
     ConfigUpdater \
 	FaceLock \
+    GalleryGoogle \
 	GmsCore \
 	GoogleBackupTransport \
 	GoogleContactsSyncAdapter \
