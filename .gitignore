@@ -133,6 +133,7 @@ proprietary/system/app/Velvet/Velvet.apk
 proprietary/system/app/Books/Books.apk
 proprietary/system/app/ConfigUpdater/ConfigUpdater.apk
 proprietary/system/app/Gmail2/Gmail2.apk
+proprietary/system/app/GalleryGoogle/GalleryGoogle.apk
 proprietary/system/etc/permissions/com.google.android.media.effects.xml
 proprietary/system/etc/permissions/features.xml
 proprietary/system/etc/permissions/com.google.android.maps.xml
