@@ -33,6 +33,7 @@ cp -a ${SRC_SYSTEM}/lib/libfacelock_jni.so ${DST_SYSTEM}/lib/libfacelock_jni.so
 cp -a ${SRC_SYSTEM}/lib/libfilterpack_facedetect.so ${DST_SYSTEM}/lib/libfilterpack_facedetect.so
 cp -a ${SRC_SYSTEM}/lib/libfrsdk.so ${DST_SYSTEM}/lib/libfrsdk.so
 cp -a ${SRC_SYSTEM}/lib/libgcomm_jni.so ${DST_SYSTEM}/lib/libgcomm_jni.so
+cp -a ${SRC_SYSTEM}/lib/libgoggles_clientvision.so ${DST_SYSTEM}/lib/libgoggles_clientvision.so
 cp -a ${SRC_SYSTEM}/lib/libgoogle_recognizer_jni.so ${DST_SYSTEM}/lib/libgoogle_recognizer_jni.so
 cp -a ${SRC_SYSTEM}/lib/libgtalk_jni.so ${DST_SYSTEM}/lib/libgtalk_jni.so
 cp -a ${SRC_SYSTEM}/lib/libgtalk_stabilize.so ${DST_SYSTEM}/lib/libgtalk_stabilize.so

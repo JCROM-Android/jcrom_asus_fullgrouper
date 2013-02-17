@@ -12,7 +12,7 @@ cp -a ${SRC_SYSTEM}/app/DeskClockGoogle.apk ${DST_SYSTEM}/app/DeskClockGoogle/De
 cp -a ${SRC_SYSTEM}/app/Exchange2Google.apk ${DST_SYSTEM}/app/Exchange2Google/Exchange2Google.apk
 cp -a ${SRC_SYSTEM}/app/FaceLock.apk ${DST_SYSTEM}/app/FaceLock/FaceLock.apk
 cp -a ${SRC_SYSTEM}/app/Gmail2.apk ${DST_SYSTEM}/app/Gmail2/Gmail2.apk
-cp -a ${SRC_SYSTEM}/app/GmsCore.apk ${DST_SYSTEM}/app/GmsCore/GmsCore.apk
+#cp -a ${SRC_SYSTEM}/app/GmsCore.apk ${DST_SYSTEM}/app/GmsCore/GmsCore.apk
 cp -a ${SRC_SYSTEM}/app/GoogleBackupTransport.apk ${DST_SYSTEM}/app/GoogleBackupTransport/GoogleBackupTransport.apk
 cp -a ${SRC_SYSTEM}/app/GoogleContactsSyncAdapter.apk ${DST_SYSTEM}/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
 cp -a ${SRC_SYSTEM}/app/GoogleEars.apk ${DST_SYSTEM}/app/GoogleEars/GoogleEars.apk
@@ -31,8 +31,8 @@ cp -a ${SRC_SYSTEM}/app/TagGoogle.apk ${DST_SYSTEM}/app/TagGoogle/TagGoogle.apk
 cp -a ${SRC_SYSTEM}/app/Talk.apk ${DST_SYSTEM}/app/Talk/Talk.apk
 cp -a ${SRC_SYSTEM}/app/Velvet.apk ${DST_SYSTEM}/app/Velvet/Velvet.apk
 cp -a ${SRC_SYSTEM}/app/VoiceSearchStub.apk ${DST_SYSTEM}/app/VoiceSearchStub/VoiceSearchStub.apk
-cp -a ${SRC_SYSTEM}/app/YouTube.apk ${DST_SYSTEM}/app/YouTube/YouTube.apk
 cp -a ${SRC_SYSTEM}/app/GalleryGoogle.apk ${DST_SYSTEM}/app/GalleryGoogle/Gallery2.apk
+cp -a ${SRC_ORIG_SYSTEM}/app/PrebuiltGmsCore.apk ${DST_SYSTEM}/app/GmsCore/PrebuiltGmsCore.apk
 cp -a ${SRC_ORIG_SYSTEM}/app/Books.apk ${DST_SYSTEM}/app/Books/Books.apk
 cp -a ${SRC_ORIG_SYSTEM}/app/Chrome.apk ${DST_SYSTEM}/app/Chrome/Chrome.apk
 cp -a ${SRC_ORIG_SYSTEM}/app/Currents.apk ${DST_SYSTEM}/app/Currents/Currents.apk

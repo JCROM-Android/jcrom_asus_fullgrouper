@@ -7,7 +7,7 @@ PRODUCT_PACKAGES += \
 	BrowserProviderProxy \
     ConfigUpdater \
 	FaceLock \
-	GmsCore \
+	PrebuiltGmsCore \
 	GoogleBackupTransport \
 	GoogleContactsSyncAdapter \
 	GoogleEars \
@@ -84,6 +84,7 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/proprietary/system/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
 	$(LOCAL_PATH)/proprietary/system/lib/libfrsdk.so:system/lib/libfrsdk.so \
 	$(LOCAL_PATH)/proprietary/system/lib/libgcomm_jni.so:system/lib/libgcomm_jni.so \
+	$(LOCAL_PATH)/proprietary/system/lib/libgoggles_clientvision.so:system/lib/libgoggles_clientvision.so \
 	$(LOCAL_PATH)/proprietary/system/lib/libgoogle_recognizer_jni.so:system/lib/libgoogle_recognizer_jni.so \
 	$(LOCAL_PATH)/proprietary/system/lib/libiwnn.so:system/lib/libiwnn.so \
 	$(LOCAL_PATH)/proprietary/system/lib/libjni_filtershow_filters.so:system/lib/libjni_filtershow_filters.so \

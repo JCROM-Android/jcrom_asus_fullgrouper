@@ -1,5 +1,6 @@
 proprietary/tools/nakasi-jop40c-factory-6aabb391.tgz
 proprietary/tools/nakasi-jop40d-factory-6ac58a1a.tgz
+proprietary/tools/nakasi-jdq39-factory-c317339e.tgz
 proprietary/tools/log.txt
 proprietary/system/lib/libgcomm_jni.so
 proprietary/system/lib/liblightcycle.so
@@ -52,6 +53,7 @@ proprietary/system/lib/libgoogle_recognizer_jni.so
 proprietary/system/lib/libnjubase1.so
 proprietary/system/lib/libspeexwrapper.so
 proprietary/system/lib/libnjfzk.so
+proprietary/system/lib/libgoggles_clientvision.so
 proprietary/system/framework/com.google.android.maps.jar
 proprietary/system/framework/com.google.android.media.effects.jar
 proprietary/system/framework/com.google.widevine.software.drm.jar
@@ -135,6 +137,7 @@ proprietary/system/app/ConfigUpdater/ConfigUpdater.apk
 proprietary/system/app/Gmail2/Gmail2.apk
 proprietary/system/app/GalleryGoogle/GalleryGoogle.apk
 proprietary/system/app/GalleryGoogle/Gallery2.apk
+proprietary/system/app/GmsCore/PrebuiltGmsCore.apk
 proprietary/system/etc/permissions/com.google.android.media.effects.xml
 proprietary/system/etc/permissions/features.xml
 proprietary/system/etc/permissions/com.google.android.maps.xml
