@@ -50,7 +50,7 @@ done < ${ODEX_LIST}
 ./copy-gapps.sh
 ./make-sub-1.sh
 ./make-sub-2.sh
-./make-sub-3.sh
+#./make-sub-3.sh
 
 sudo umount system
 rmdir system
