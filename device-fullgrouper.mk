@@ -22,7 +22,6 @@ PRODUCT_PACKAGES += \
 	OneTimeInitializer \
 	PartnerBookmarksProvider \
 	SetupWizard \
-	Talk \
 	VoiceSearchStub \
 	Books \
 	Chrome \
@@ -39,6 +38,7 @@ PRODUCT_PACKAGES += \
 	iWnnIME_Kbd_White \
 	talkback
 
+#    Talk \
 #    Music2 \
 #    CalendarGoogle \
 #    Velvet \
